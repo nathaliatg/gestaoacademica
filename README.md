@@ -77,8 +77,4 @@ Além disso, o sistema conta com:
 
 ## 📄 Licença
 
-Este projeto é de uso acadêmico e não possui uma licença específica. Fique à vontade para usar como base para seus estudos.
-
----
-
-Se quiser, posso incluir seu nome, print do terminal ou badge do Python. É só me avisar! 😄
+Este projeto é de uso acadêmico e não possui uma licença específica.
